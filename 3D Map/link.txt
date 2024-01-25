@@ -1,0 +1,5 @@
+Download a 3d map at:
+https://www.ncei.noaa.gov/products/etopo-global-relief-model
+
+Thanks for map_example.png to: 
+http://mres.uni-potsdam.de/
