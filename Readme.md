@@ -1,4 +1,4 @@
-<p align="center">
+![image](https://github.com/Railflight/Vtol-flight-test/assets/61167951/e6e30bf0-7d1f-4d1e-b766-f9753cbf93b0)<p align="center">
   <img src="CAD model/vtol_iso_view.png" width="200" />
 </p>
 <p align="center">
@@ -134,8 +134,8 @@
 
 Ensure you have one of the following software installed on your system:
 
-* **Octave**: `version x.y.z`
-* **Matlab**: `version x.y.z`
+* **Octave**: `version 8.4.0`
+* **Matlab**: `version R2022a` 
 
 ###  Installation
 
