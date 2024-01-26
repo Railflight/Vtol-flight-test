@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="CAD model/vtol_iso_view.png" width="200" />
+</p>
+<p align="center">
     <h1 align="center">VTOL FLIGHT TEST</h1>
 </p>
 <p align="center">
