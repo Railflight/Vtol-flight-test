@@ -1,6 +1,3 @@
-![image](https://github.com/Railflight/Vtol-flight-test/assets/61167951/e6e30bf0-7d1f-4d1e-b766-f9753cbf93b0)<p align="center">
-  <img src="CAD model/vtol_iso_view.png" width="200" />
-</p>
 <p align="center">
     <h1 align="center">VTOL FLIGHT TEST</h1>
 </p>
