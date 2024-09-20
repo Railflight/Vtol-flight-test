@@ -8,7 +8,7 @@
     <em><code>►For the 12 rotors aircraft model</code></em>
 </p>
 <p align="center">
-	<img src="https://img.shields.io/github/license/Railflight/Vtol-flight-test?style=default&color=0080ff" alt="license">
+
 	<img src="https://img.shields.io/github/last-commit/Railflight/Vtol-flight-test?style=default&color=0080ff" alt="last-commit">
 	<img src="https://img.shields.io/github/languages/top/Railflight/Vtol-flight-test?style=default&color=0080ff" alt="repo-top-language">
 	<img src="https://img.shields.io/github/languages/count/Railflight/Vtol-flight-test?style=default&color=0080ff" alt="repo-language-count">
